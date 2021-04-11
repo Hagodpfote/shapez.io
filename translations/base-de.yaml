@@ -425,7 +425,7 @@ buildings:
             description: Rotiert Formen gegen den Uhrzeigersinn um 90 Grad.
         rotate180:
             name: Rotierer (180°)
-            description: Rotiert formen um 180 Grad.
+            description: Rotiert Formen um 180 Grad.
     stacker:
         default:
             name: Stapler
